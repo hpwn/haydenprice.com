@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "https://beacons.ai/hp_az", "permanent": true },
+    { "source": "/:path*", "destination": "https://beacons.ai/hp_az", "permanent": true }
+  ]
+}
